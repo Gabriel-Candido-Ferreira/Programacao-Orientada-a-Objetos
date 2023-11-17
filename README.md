@@ -1,8 +1,5 @@
-# Programacao-Orientada-a-Objetos
-### Gabriel Cândido Ferreria Dias
-
-
 # Repositório de Estudos de Programação Orientada a Objetos
+### Gabriel Cândido Ferreria Dias
 
 Este repositório foi criado com o propósito de armazenar materiais e códigos relacionados aos meus estudos em Programação Orientada a Objetos (POO). Aqui, vou compartilhar exemplos de código, tutoriais e projetos práticos desenvolvidos durante o aprendizado desta importante abordagem de programação.
 
