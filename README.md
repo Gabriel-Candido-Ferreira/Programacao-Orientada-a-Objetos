@@ -1,10 +1,6 @@
 # Programacao-Orientada-a-Objetos
----
-title: "Estudos de Programação Orientada a Objetos"
-author: "Gabriel Cândido Ferreria Dias"
-date: "`r format(Sys.time(), '%d de %B de %Y')`"
-output: html_document
----
+### Gabriel Cândido Ferreria Dias
+
 
 # Repositório de Estudos de Programação Orientada a Objetos
 
